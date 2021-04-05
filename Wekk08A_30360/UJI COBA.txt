@@ -1,0 +1,8 @@
+Uji pada Week08A :
+aplikasi berjalan lancar tanpa ada eror (percobaan termasuk membuat file pada penyimpanan berbeda, dengan nama berbeda, 
+teks berbeda, restart app,  serta menghapus, menulis, menyimpan kembali)
+
+Uji pada Week08B :
+seperti diminta di tutorial, pada saved instance saya melakukan percobaan yaitu menambah counter dan megganti warna, merotate device dan data tersimpan,
+namun saat app diclose dan direstart, saved instance sudah terhapus. masalah teratasi dengan savedPreferences.
+
