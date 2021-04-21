@@ -1,0 +1,6 @@
+Skenario :
+	- Menekan acak pada nomor yang sudah digenerate (clear)
+	- Menekan berurutan pada nomor yang sudah digenerate (clear)
+	- Men-generate hingga kata 48, menekan kata46 berkali-kali (clear)
+	- Men-generate hingga kata 146, mengklik berkali kali pada kata 146 (clear)
+	- 

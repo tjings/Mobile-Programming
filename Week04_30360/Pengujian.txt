@@ -1,0 +1,7 @@
+Intent dan Intent Passing:
+Saat tombol kirim ditekan, text tertulis akan tersimpan, berhasil dikirim ke activity tujuan (karena tertampil
+di activity kedua). Di activity kedua, teks dimasukkan dan dikirim kembali ke activity sebelumnya dengan sukses.
+
+Fragment:
+Saat tombol halaman 1 ditekan, activity sukses pindah ke tujuan yang menampilkan activity yang mengandung fragment1
+dan 2.

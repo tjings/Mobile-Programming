@@ -1,0 +1,11 @@
+2)
+Kasus (a) dan (b) akan menghasilkan FATAL ERROR : EMPTY STRING (Number Format Exception) dimana pada kasus (a) 
+tidak terdapat apapun untuk dioperasikan dan (b) tidak memiliki pembagi (NULL).
+Berbeda dengan (b) yang meskipun sama-sama pembagian, (c) tidak menghasilkan FATAL EROR karena memiliki value 
+yaitu 0 (nol) meskipun perhitungan tidak dapat dilakukan.
+Langkah-langkah untuk mengatasi error adalah :
+	-menggunakan try-catch unguk mengatasi exception
+	-menggunakan form validator
+
+3)
+Breakout diletakkan di line 44.
